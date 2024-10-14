@@ -10,7 +10,7 @@ GoodbyeDPI, internet sansürünü ve trafiği engelleme girişimlerini aşmak i�
 
 Türkiye'de ki erişim engellerini aşmak için genelde DNS değiştirmek veya VPN açmak işe yarıyor. Ancak bazı internet sağlayıcıları (Turk Telekom, Turkcell vb.) DNS değişiminden etkilenmiyor, çünkü DPI teknolojisini kullanıyorlar. VPN'de bir alternatif ancak genelde lag sorunları yaşatabiliyor. Bu yüzden bu araç oldukça işlevsel.
 
-## Nasıl kullanılır?
+# Nasıl kullanılır?
 - [goodbyedpi-0.2.3rc3-2_turkiye.rar](https://github.com/meto1558/GoodbyeDPI-Turkiye/releases/download/v0.2.3/goodbyedpi-0.2.3rc3-2_turkiye.rar) dosyasını indirin.
 - service_install_turktelekom.cmd dosyasını **yönetici** olarak çalıştırın.
 - Tek seferlik çalıştırmak istiyorsanız sadece turktelekom.cmd'yi yine **yönetici** olarak çalıştırın.
