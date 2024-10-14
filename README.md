@@ -11,7 +11,7 @@ GoodbyeDPI, internet sansürünü ve trafiği engelleme girişimlerini aşmak i�
 - service_install_turktelekom.cmd dosyasını **yönetici** olarak çalıştırın.
 - Tek seferlik çalıştırmak istiyorsanız sadece turktelekom.cmd'yi yine **yönetici** olarak çalıştırın.
 
-## Tek seferlik ve servis arasında ki fark nedir?
+## Tek seferlik ve servis arasındaki fark nedir?
 - Servis olarak kullanırsanız bir Windows servisi olarak kurulacaktır, bu sayede her sistem açıldığında otomatik olarak aktif hale gelecektir.
 - Tek seferlikte adından da anlaşılacağı üzere böyle bir durum söz konusu değil.
 
