@@ -2,7 +2,7 @@
 
 DPI, bir ağ üzerinden geçen veri paketlerini inceleyerek bu paketlerin içeriği hakkında detaylı bilgi elde etmeyi sağlar. Geleneksel ağ denetim teknikleri, yalnızca bir veri paketinin başlık (header) bilgilerini kontrol ederken, DPI paketlerin içeriğini de analiz eder.
 
-# Goodbye DPI nedir?
+# GoodbyeDPI nedir?
 
 GoodbyeDPI, internet sansürünü ve trafiği engelleme girişimlerini aşmak için kullanılan bir yazılımdır. Bu araç, Deep Packet Inspection (DPI) adı verilen ve internet servis sağlayıcılarının (ISS) veri paketlerini analiz ederek belirli web sitelerine veya hizmetlere erişimi kısıtlamasını sağlayan bir teknolojiyi atlatmayı amaçlar. Bu fork/forklar Türkiye için yeniden dizayn edilmiştir.
 
