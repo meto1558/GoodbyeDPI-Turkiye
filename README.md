@@ -7,7 +7,7 @@ DPI, bir ağ üzerinden geçen veri paketlerini inceleyerek bu paketlerin içeri
 GoodbyeDPI, internet sansürünü ve trafiği engelleme girişimlerini aşmak için kullanılan bir yazılımdır. Bu araç, Deep Packet Inspection (DPI) adı verilen ve internet servis sağlayıcılarının (ISS) veri paketlerini analiz ederek belirli web sitelerine veya hizmetlere erişimi kısıtlamasını sağlayan bir teknolojiyi atlatmayı amaçlar. Bu fork/forklar Türkiye için yeniden dizayn edilmiştir.
 
 ## Nasıl kullanılır?
-- []() dosyasını indirin.
+- [goodbyedpi-0.2.3rc3-2_turkiye.rar](https://github.com/meto1558/GoodbyeDPI-Turkiye/releases/download/v0.2.3/goodbyedpi-0.2.3rc3-2_turkiye.rar) dosyasını indirin.
 - service_install_turktelekom.cmd dosyasını **yönetici** olarak çalıştırın.
 - Tek seferlik çalıştırmak istiyorsanız sadece turktelekom.cmd'yi yine **yönetici** olarak çalıştırın.
 
