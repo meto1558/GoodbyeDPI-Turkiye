@@ -26,3 +26,4 @@ Türkiye'de ki erişim engellerini aşmak için genelde DNS değiştirmek veya V
 
 > [!NOTE]
 > Türkiye'de yasak olan farklı sitelere de VPN'siz erişim sağlamaktadır (Roblox gibi).
+> Ayrıca, bazen Turkcell SuperOnline'da çalışmayabiliyor, bunun nedeni Turkcell'in DPI dışında farklı izleme teknikleri kullanması olabileceğinden şüpheleniyoruz. Ve VPN kullanımıda oldukça kısıtlı. Önerimiz imkanınız varsa servisi değiştirin ya da sıkı bir araştırma ile çalışır bir VPN bulun.
