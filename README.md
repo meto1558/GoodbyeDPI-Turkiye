@@ -19,6 +19,9 @@ Türkiye'de ki erişim engellerini aşmak için genelde DNS değiştirmek veya V
 - Servis olarak kullanırsanız bir Windows servisi olarak kurulacaktır, bu sayede her sistem açıldığında otomatik olarak aktif hale gelecektir.
 - Tek seferlikte adından da anlaşılacağı üzere böyle bir durum söz konusu değil.
 
+# Servis sorun çıkarıd, ne yapacağım?
+- service_remove.cmd dosyasını yönetici olarak çalıştırmanız yeterli olacaktır.
+
 **Eğer bu fork çalışmazsa, başka bir dostumuzun oluşturduğu şu forku kullanabilirsiniz:** https://github.com/cagritaskn/GoodbyeDPI-Turkey
 
 > [!NOTE]
